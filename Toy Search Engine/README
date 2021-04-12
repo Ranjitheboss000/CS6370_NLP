@@ -1,5 +1,11 @@
 Development of search engine using vector space model
 
+The goal of the assignment is to build a search engine from scratch, which is an example of an information retrieval system. 
+Codes associated with basic text processing module that implements sentence segmentation, tokenization, stemming/lemmatization and stopword removal are provided. 
+Codes implementing an Information Retrieval system using the Vector Space Model are provided.
+
+Cranfiled dataset has been used for this purpose.
+
 main.py - The main module that contains the outline of the Search Engine. Do not change anything in this file.
 
 To test the code, run main.py as before with the appropriate arguments.
