@@ -1,0 +1,20 @@
+Implementation Procedure
+
+The project is written via google collab and we encourage the reader to use google collab to run this notebook, and change notebook settings to TPU as it would be 3x faster than running it on CPU/GPU
+
+There are 4 files - 3 json files and one evaluation.py all of which should be uploaded to the workspace before beginning to run the cells
+
+There are four models implemented:
+  ●	Bag of words model (The previous one)
+  ●	ESA
+  ●	LSA
+  ●	Word2Vec
+
+Each of which are properly given headings in the collab notebook.
+
+There is a report attached for the reader to know about the implementation theory, final scores and inferences.
+
+Procedure to run code:
+  ●	Open google collab, upload our notebook in the collab, and change network settings to TPU
+  ●	Upload the four files given in the ‘needed’ folder into the workspace
+  ●	Click Runtime → Run all 
